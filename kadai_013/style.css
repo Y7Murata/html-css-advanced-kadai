@@ -84,7 +84,7 @@ body {
 
 /*ハンバーガーメニュー*/
 #menu-sp {
- float: none;
+ float: right;
  padding: 0;
 }
 

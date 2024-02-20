@@ -58,6 +58,15 @@ PC用のスタイル
   #nav-pc>a:active {
     color: #0d0d0d;
   }
+  
+  #menu-sp {
+    display:none
+}
+
+  #nav-sp {
+    display: none;
+}
+
 }
 
 /*スマホ用ナビ　ハンバーガー*/
@@ -134,14 +143,6 @@ body {
   background-position: right top;
 }
 
-/*PC用ナビゲーション非表示*/
-#manu-sp {
-  display:none
-}
-
-#nav-sp {
-display: none;
-}
 
 
 
